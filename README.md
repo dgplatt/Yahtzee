@@ -1,1 +1,1 @@
-# Yahtzee
+# Yahtzee that gives the best move to the current roll and creates a window to play game with
